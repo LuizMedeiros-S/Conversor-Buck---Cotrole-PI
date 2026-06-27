@@ -30,7 +30,7 @@ O controle é feito por um **controlador PI analógico**, responsável por ajust
 
 ##  Modelo do Sistema
 
-![Modelo do Conversor Buck](imagens/diagrama.png)
+![Modelo do Conversor Buck](Buck_com_PI/imagens/diagrama.png)
 
 
 ---

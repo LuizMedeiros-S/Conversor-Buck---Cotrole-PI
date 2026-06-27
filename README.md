@@ -30,9 +30,8 @@ O controle é feito por um **controlador PI analógico**, responsável por ajust
 
 ##  Modelo do Sistema
 
-![Modelo do Conversor Buck](imagens/modelo.png)
+![Modelo do Conversor Buck](imagens/diagrama.png)
 
-> O modelo inclui o estágio de potência e o controlador PI implementado com amplificadores operacionais.
 
 ---
 
@@ -70,7 +69,6 @@ A partir dos cálculos:
 - **Ganho proporcional (Kc):** 2.5458  
 - **Frequência do zero (ωz):** 566.24 rad/s  
 
-![Modelo](imagens/diagrama.png)
 ![Modelo](imagens/resultado.png)
 
 ### Implementação com componentes:

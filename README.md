@@ -30,7 +30,7 @@ O controle é feito por um **controlador PI analógico**, responsável por ajust
 
 ##  Modelo do Sistema
 
-![Modelo do Conversor Buck](images/modelo.png)
+![Modelo do Conversor Buck](imagens/modelo.png)
 
 > O modelo inclui o estágio de potência e o controlador PI implementado com amplificadores operacionais.
 

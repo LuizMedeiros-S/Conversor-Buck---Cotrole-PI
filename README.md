@@ -69,7 +69,7 @@ A partir dos cálculos:
 - **Ganho proporcional (Kc):** 2.5458  
 - **Frequência do zero (ωz):** 566.24 rad/s  
 
-![Modelo](imagens/resultado.png)
+![Modelo](Buck_com_PI/imagens/resultado.png)
 
 ### Implementação com componentes:
 
@@ -88,7 +88,7 @@ Gc(s)=-(R2/R1)*(s+1/(R2*C))/s
 
 Para mais detalhes dos calculos :
 
-[Acessar memorial de cálculo](docs/calculo_de_controle_PI_para_conversor_BUCK.pdf)
+[Acessar memorial de cálculo](Buck_com_PI/docs/calculo_de_controle_PI_para_conversor_BUCK.pdf)
 
 
 ##  Como Executar
